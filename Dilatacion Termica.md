@@ -146,13 +146,27 @@ $$\boxed{T_{min} \approx 104 \text{ °C}}$$
 
 Ambos diámetros coinciden en **8,0100 cm**, confirmando que a **104 °C** la esfera justo pasa por el orificio.
 
-## Ejemplo 3. Calculo subida mar.
+## Ejemplo 3: Cálculo de la subida del nivel del mar
 
-Coeficiente del agua 2,1 
-Largo 2KM
+El coeficiente de expansión **volumétrica** del agua de mar es $\beta = 2{,}1 \times 10^{-4} \text{ °C}^{-1}$.
 
-Si el coeficiente es 2,1 es volumen se pasa a largo 2,1/3
+Estima cuánto aumenta el nivel del mar si la columna de agua tiene una profundidad de **2 km** y la temperatura sube **2 °C**.
 
-Delta Temperatura es 2 grados. 
+**Datos:**
+- $L_0 = 2 \text{ km} = 2{,}000 \text{ m}$ (profundidad de la columna de agua)
+- $\Delta T = 2 \text{ °C}$
+- $\beta = 2{,}1 \times 10^{-4} \text{ °C}^{-1}$ (coeficiente volumétrico)
 
-2KM (2KM x 2,1/3 x 10^-5  ) 
+**Estrategia:** Para pasar del coeficiente volumétrico $\beta$ al lineal $\alpha$ se usa la relación:
+
+$$\alpha \approx \frac{\beta}{3} = \frac{2{,}1 \times 10^{-4}}{3} = 0{,}7 \times 10^{-4} \text{ °C}^{-1}$$
+
+**Desarrollo:**
+
+$$\Delta L = \alpha \cdot L_0 \cdot \Delta T = \frac{\beta}{3} \cdot L_0 \cdot \Delta T$$
+
+$$\Delta L = 0{,}7 \times 10^{-4} \cdot 2{,}000 \cdot 2$$
+
+$$\boxed{\Delta L = 0{,}28 \text{ m} = 28 \text{ cm}}$$
+
+> Este resultado ilustra el impacto del calentamiento global: un aumento de 2 °C en la temperatura del océano puede elevar el nivel del mar varios centímetros solo por expansión térmica, sin considerar el deshielo de glaciares. 
