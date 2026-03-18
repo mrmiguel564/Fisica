@@ -1,0 +1,5 @@
+[[Oscilaciones Simples]]
+[[Péndulo Simple]]
+[[Péndulo físico]]
+[[Conservación de Energía]]
+[[Torque]]

@@ -1,0 +1,7 @@
++ [[Movimiento Ondulatorio]]
++ [[Ondas en Cuerdas]]
++ [[Ecuación de Onda Lineal]]
++ [[Ondas Sonoras]]
++ [[Efecto Doppler]]
++ [[Superposición de Ondas]]
++ [[Ondas estacionarias en cuerdas]]

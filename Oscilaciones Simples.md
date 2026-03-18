@@ -1,0 +1,2 @@
+[[Oscilaciones Amortiguadas]]
+[[Oscilaciones Forzadas]]
