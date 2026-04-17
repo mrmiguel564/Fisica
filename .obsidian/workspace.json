@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calorimetria.md",
+                "file": "Gases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calorimetria"
+              "title": "Gases"
             }
           }
         ]
@@ -74,13 +74,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dd1c03ffd42b6afb",
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calorimetria.md",
+                "file": "Transferencia de calor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Calorimetria"
+              "title": "Enlaces entrantes de Transferencia de calor"
             }
           },
           {
@@ -186,29 +184,33 @@
   },
   "active": "087b19f85e4860b2",
   "lastOpenFiles": [
-    "Mecanismo de transferencia de calor.md",
+    "Gases.md",
+    "Calor & Ondas.txt",
+    "Escalas de temperatura.md",
+    "Oscilaciones Forzadas.md",
+    "Oscilaciones Simples.md",
+    "Movimiento Armonico Simple.md",
+    "Transferencia de calor.md",
+    "2026-03-20.md",
+    "Calorimetria.md",
+    "Oscilaciones.md",
+    "Carpeta ejemplo/Formulas Matematicas en Obsidian.md",
+    "Aplicaciones de la primera ley.md",
     "Entropia.md",
     "Sin título.base",
-    "Calorimetria.md",
     "Alicaciones de la primera ley.md",
     "Carpeta ejemplo/Documento ejemplo.md",
     "Carpeta ejemplo",
     "Ondas.md",
     "Dilatacion Termica.md",
     "Efecto Doppler.md",
-    "Escalas de temperatura.md",
     "Ley Cero de la Termodinamica.md",
-    "Oscilaciones Simples.md",
     "Termodinamica.md",
     "Osilaciones.md",
     "Evaluaciones.md",
-    "Movimiento Armonico Simple.md",
     "Motores a gasolina y Diesel.md",
     "Maquinas de Carnot.md",
     "Procesos Reversibles e irreversibles.md",
-    "Maquinas Termicas y Segunda Ley de la Termodinamicas.md",
-    "Primera ley de la termodinamica.md",
-    "Trabajo y Calor.md",
-    "Fisica Calor y ondas.md"
+    "Maquinas Termicas y Segunda Ley de la Termodinamicas.md"
   ]
 }

@@ -45,6 +45,20 @@ $$T_K = \frac{5}{9}(T_F - 32) + 273{,}15$$
 
 ---
 
+## Valor numérico común entre Celsius y Fahrenheit
+
+Existe un valor numérico en que ambas escalas coinciden. Igualando $T_C = T_F$:
+
+$$T = \frac{9}{5}T + 32 \implies T - \frac{9}{5}T = 32 \implies -\frac{4}{5}T = 32$$
+
+$$\boxed{T = -40\;°\text{C} = -40\;°\text{F}}$$
+
+## ¿Es $\Delta T_C = \Delta T_F$?
+
+No. Un cambio de $1\;°\text{C}$ equivale a un cambio de $\frac{9}{5} = 1{,}8\;°\text{F}$. Sin embargo, sí se cumple que $\Delta T_K = \Delta T_C$.
+
+---
+
 ## Ejemplo: convertir 25 °C a Fahrenheit y Kelvin
 
 $$T_F = \frac{9}{5} \cdot 25 + 32 = 45 + 32 = \mathbf{77 \text{ °F}}$$

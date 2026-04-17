@@ -1,0 +1,2110 @@
+Calor & Ondas
+Ley cero y dilatación térmica
+
+Oscar Aravena O.
+Facultad de Ingeniería
+Universidad de Valparaíso
+Primer Semestre – 2026
+
+1
+
+¿Por qué estudiar
+termodinámica?
+
+PANORAMA GENERAL
+
+3
+
+Ley Cero de la Termodinámica
+
+LEY CERO DE LA TERMODINÁMICA
+Consideremos la siguiente situación:
+
+Sistema C
+
+Sistema A
+
+Sistema B
+
+Sistema C
+
+Sistema A
+
+Sistema B
+
+Ley Cero de la Termodinámica.
+
+Si un sistema A está en equilibrio térmico con un sistema B, y el sistema B está en equilibrio
+térmico con un sistema C, entonces A también está en equilibrio térmico con C.
+5
+
+LEY CERO DE LA TERMODINÁMICA
+Ley cero de la Termodinámica (Fowler, 1931)
+
+Dos sistemas en equilibrio térmico con un tercero,
+están en equilibrio térmico entre sí.
+El principio cero de la termodinámica nos permite entre otras cosas:
+1. Definir temperatura, pero operacionalmente.
+2. ¡Construir termómetros!
+En base a la Ley Cero de la Termodinámica se han creado diversos tipos de termómetros.
+
+¿Conoce alguno?
+6
+
+LEY CERO DE LA TERMODINÁMICA
+Tabla 1:
+Propiedades termométricas de diferentes termómetros
+Termómetro
+
+Propiedad
+termométrica
+
+Rango de medición
+(aproximado)
+
+Aplicaciones típicas
+
+Mercurio
+
+Dilatación lineal
+
+−39 ◦ C a 356 ◦ C
+
+Laboratorios, procesos industriales,
+mediciones clínicas
+
+Gas a volumen
+constante
+
+Presión
+
+Amplio
+(depende del gas)
+
+Motores y sistemas cerrados
+
+Detector de
+temperatura resistivo
+
+Resistencia eléctrica
+
+−200 ◦ C a 850 ◦ C
+
+Control de procesos y laboratorios
+
+Pirómetro
+
+Emisión térmica
+
+300 ◦ C a 3000 ◦ C
+
+Medición sin contacto (ej. en hornos
+industriales)
+
+7
+
+LEY CERO DE LA TERMODINÁMICA
+Escalas de Temperatura
+
+Lo anterior nos permite definir un mecanismo operacional para medir temperatura. Sin embargo,
+existen múltiples escalas:
+Escala Fahrenheit (1724)
+
+Escala Celsius (1742)
+
+• Punto de fusión del agua: 32 ◦ F
+
+• Punto de fusión del agua: 0 ◦ C
+
+• Punto de ebullición del agua: 212 ◦ F
+
+• Punto de ebullición del agua: 100 ◦ C
+
+Ejercicio
+
+Llamando 𝑇𝐶 a un valor arbitrario de temperatura en grados Celsius, y 𝑇𝐹 a un valor arbitrario de
+temperatira en grados Fahrenheit:
+a) Determine una regla de conversión entre ambas escalas.
+b) ¿Existe algún valor numérico común?
+c) ¿Es Δ𝑇𝐶 = Δ𝑇𝐹 ?
+8
+
+LEY CERO DE LA TERMODINÁMICA
+Escalas de Temperatura
+
+Conversión entre Celsius y Fahrenheit
+250
+200
+
+TF = (9/5) TC + 32
+
+T (°F)
+
+150
+100
+50
+
+-40 °F
+
+0
+
+-40 °C
+-50
+-50
+
+0
+
+50
+
+100
+
+T (°C)
+
+9
+
+Dilatación Térmica
+
+DILATACIÓN TÉRMICA
+Tabla 2:
+Coeficientes de expansión lineal de diferentes
+materiales
+Material
+
+Ejercicio (para pensar)
+Un juez usa una regla de acero que tiene exactamente
+50, 000 [cm] de longitud a una temperatura de 5, 0 ◦ C. Dicho
+juez utiliza la misma regla para medir un objeto cuando la
+temperatura ambiente es de 40, 0 ◦ C, obteniendo una medida
+-errónea- de 30, 150 [cm]. Determine el valor de la medida
+correcta del objeto.
+
+Hielo (0 °C)
+Aluminio
+Latón
+Bronce
+Cobre
+Fierro
+Hormigón
+Acero
+Vidrio ordinario
+Vidrio Pyrex
+
+𝛼 ×10−5 K −1
+
+
+
+5,1
+2,4
+2,0
+1,8
+1,7
+1,2
+1,0
+1,2
+0,8
+0,3
+11
+
+DILATACIÓN TÉRMICA
+
+Ejercicio (dilatación superficial)
+
+Suponga una plancha metálica rectangular de dimensiones 𝐿 0 y 𝐻0 , con área inicial 𝐴0 = 𝐿 0 𝐻0 , a
+temperatura 𝑇0 .
+a) Si la temperatura de la plancha se incrementa en Δ𝑇, ¿cuál será su área final 𝐴? Exprese su
+resultado como en función del coeficiente de dilatación lineal, 𝛼, del material.
+b) Si la plancha tuviera un agujero circular, ¿qué sucede con el agujero cuando se calienta la
+plancha? ¿Se agranda? ¿Se achica? Explique su razonamiento.
+12
+
+DILATACIÓN TÉRMICA
+
+Ejercicio
+
+Considere una esfera de acero a 0 ◦ C, la cual tiene un diámetro de 8, 000 [cm]. A su vez, una placa
+de aluminio con un agujero circular de 7, 990 [cm] de diámetro, a la misma temperatura que la
+esfera de acero.
+Determine la mínima temperatura común para que la esfera pase a través del orificio.
+Importante: tenga cuidado al operar las cifras significativas. Recuerde además que:
+ 
+ 
+1
+1
+𝛼𝑎𝑐𝑒𝑟 𝑜 = 1, 2 × 10−5
+; 𝛼 𝐴𝑙 = 2, 4 × 10−5
+K
+K
+
+13
+
+DILATACIÓN TÉRMICA
+En el caso de volúmenes:
+𝑉 ∼ 𝐿3
+
+Tabla 3:
+Coeficientes de expansión volumétrica de
+diferentes fluidos
+
+𝑉 = 𝑉0 (1 + 𝛼Δ𝑇) 3
+
+Material
+
+𝛽 ×10−4 K −1
+
+Agua
+Mercurio
+Bencina
+
+2,1
+1,8
+9,6
+
+↓
+𝑉 = 𝑉0 (1 + 𝛽Δ𝑇)
+
+En general, llamaremos 𝜷 = 3𝜶
+
+
+
+Nótese además lo siguiente:
+𝐿 = 𝐿 0 (1 + 𝛼Δ𝑇) =⇒
+
+Δ𝐿
+= 𝛼Δ𝑇
+𝐿0
+
+Ante similares condiciones, porcentualmente ¡todos los materiales se dilatan en la misma
+proporción! El caso general (superficies y volúmenes) es similar.
+14
+
+DILATACIÓN TÉRMICA
+Ejercicio –¡para pensar!–
+
+En el artículo titulado “Why do we keep talking about 1.5 °C and 2 °C above the pre-industrial
+era?” (Copernicus Climate Change Service, 2023), se informa que la temperatura media global
+alcanzó o superó 1,5 ◦ C por encima de los niveles preindustriales durante cada mes entre julio de
+2023 y junio de 2024, y que, por primera vez, el 17 de noviembre de 2023 la temperatura global
+rebasó los 2 ◦ C –¡esto es grave!, veamos por qué–
+Suponiendo que la profundidad media del océano es de 4 [km] y que la temperatura del agua de
+los océanos aumenta en 2 ◦ C:
+a) ¿En qué porcentaje varía el volumen del agua de mar debido a su dilatación?
+b) ¿Cuánto sube el nivel medio del mar por este aumento de temperatura?
+
+15
+
+DILATACIÓN TÉRMICA
+Anomalía del agua
+
+En general, los líquidos disminuyen su volumen mientras se enfrían (en fase líquida). Sin embargo,
+el agua entre 0 ◦ C y 4 ◦ C presenta un comportamiento anómalo. Véamos en qué consiste:
+
+Hielo
+
+Verano (temperatura disminuye)
+
+Líquido
+
+980
+960
+940
+
+ρ [kg/m3 ]
+
+ρ [kg/m3 ]
+
+1000
+
+920
+900
+-20
+
+0
+
+20
+
+40
+
+999.95
+999.90
+999.85
+999.80
+999.75
+999.70
+
+60
+
+Temperatura °C
+
+(Lago)
+
+Invierno (temperatura aumenta)
+0
+
+2
+
+80
+
+4
+
+6
+
+100
+(Lago)
+16
+
+Referencias
+
+REFERENCIAS
+Chu, J. (2023, agosto). Explained: The 1.5 °C climate benchmark.
+https://news.mit.edu/2023/explained-climate-benchmark-rising-temperatures-0827
+Copernicus Climate Change Service. (2023, junio). Why do we keep talking about 1.5 °C and 2 °C above
+the pre-industrial era? https://climate.copernicus.eu/why-do-we-keep-talking-about-15degc-and2degc-above-pre-industrial-era
+Demtröder, W. (2017). Mechanics and Thermodynamics. Springer International Publishing.
+https://doi.org/10.1007/978-3-319-27877-3
+Hugh, Y., & Freedman, R. (2018). Física universitaria con física moderna 1 (14.a ed., Vol. 1). Pearson
+Educación de México.
+OpenAI. (2022). ChatGPT [Utilizado para la creación de imágenes mediante la integración con
+DALL·E]. https://chat.openai.com/
+Serway, R. A., & Jewett, J. W. (2019). Física para ciencias e ingeniería 1 (10.a ed., Vol. 1). Cengage
+Learning.
+
+18
+
+Calor & Ondas
+Ley cero y dilatación térmica
+
+Oscar Aravena O.
+Facultad de Ingeniería
+Universidad de Valparaíso
+Primer Semestre – 2026
+
+19
+
+Calor & Ondas
+Calorimetría
+
+Oscar Aravena O.
+Facultad de Ingeniería
+Universidad de Valparaíso
+Primer Semestre – 2026
+
+1
+
+Calorimetría
+
+CALORIMETRÍA
+No olvidar ni confundir
+
+• Temperatura: Propiedad intrínseca de los cuerpos –¡los cuerpos tienen temperatura!– La
+temperatura se mide en:
+◦ Kelvin → K
+◦ Celsius → ◦ C
+◦ Fahrenheit → ◦ F
+
+9
+𝑇𝐹 = 𝑇𝐶 + 32
+5
+
+;
+
+𝑇𝐾 = 𝑇𝐶 + 273,15
+
+;
+
+Δ𝑇𝐾 = Δ𝑇𝐶
+
+• Calor: Energía en tránsito. Al ser energía, sus unidades de medida son:
+◦ Joule → J
+◦ Caloría → cal
+◦ British Thermal Unit → BTU
+
+1 [cal] = 4, 184 [J] ≃ 4, 2 [J]
+
+;
+
+1 [BTU] = 1055,06 [J]
+3
+
+CALORIMETRÍA
+Algunas definiciones para comenzar
+
+• Capacidad calorífica: energía necesaria (calor) para incrementar la temperatura en 1 ◦ C:
+𝑄
+Δ𝑇
+• Dado que el calor transferido depende de la cantidad de materia involucrada –variable
+extensiva–, lo normalizamos por unidad de sustancia –variable intensiva–:
+𝐶=
+
+◦ Calor específico por unidad de masa:
+𝐶
+𝑄
+=
+=⇒ 𝑄 = 𝑐𝑚Δ𝑇
+𝑚 𝑚Δ𝑇
+◦ Calor específico por unidad de masa molar (útil en gases):
+𝑐=
+
+𝑄
+𝐶
+=
+=⇒ 𝑄 = 𝑛𝑐 𝑉 Δ𝑇
+𝑛 M 𝑛MΔ𝑇
+...donde 𝑐 𝑉 representa el calor específico (molar) a volumen constante.
+𝑐=
+
+4
+
+CALORIMETRÍA
+Ejercicio
+
+Considere dos trozos de material distinto, uno con capacidad calórica 𝐶𝑎 y temperatura 𝑇𝑎 , y el otro
+con capacidad calórica 𝐶𝑏 y temperatura 𝑇𝑏 , con 𝑇𝑎 > 𝑇𝑏 . Ambos se ponen en contacto térmico.
+Determine una expresión para la temperatura final de equilibrio del sistema. Asuma que no se
+produce cambio de fase en el proceso.
+Algunas definiciones para comenzar (continuación)
+
+• Calor latente: energía necesaria (calor) para producir un cambio de fase:
+𝑄
+=⇒ 𝑄 = 𝐿𝑚
+𝑚
+Nótese que en los cambios de fase la temperatura no varía.
+𝐿=
+
+5
+
+CALORIMETRÍA
+
+Agua
+líquida
+
+Agua líquida con Vapor
+
+Vapor
+de
+agua
+
+Agua líquida
+con hielo
+Hielo
+
+6
+
+CALORIMETRÍA
+Tabla 1:
+Calores específicos y latentes del agua
+
+
+cal
+Calor específico
+gK
+
+Propiedad (agua)
+
+
+
+
+
+cal
+Calor latente
+g
+
+Hielo (sólido)
+
+0,50
+
+—
+
+Agua (líquida)
+
+1,00
+
+—
+
+Vapor de agua (gas)
+
+0,47
+
+—
+
+Fusión (hielo ↔ agua)
+
+—
+
+80
+
+Vaporización (agua ↔ vapor)
+
+—
+
+540
+
+
+
+1 [cal] = 4, 184 [J] ≃ 4, 2 [J]
+7
+
+CALORIMETRÍA
+Ejercicios
+1. Considere un recipiente de paredes completamente
+aislantes, capacidad calorífica despreciable, y sellado. Este
+
+
+recipiente contiene en su interior 900 cm3 de agua a 20 ◦ C. Determine la cantidad de hielo, en gramos, que se
+debe añadir al agua a fin de que se funda completamente ese hielo en ella y la temperatura final del sistema sea de
+0 ◦ C. Considere que el hielo se encuentra inicialmente a −20 ◦ C.
+2. Considere 3 líquidos diferentes ℓ 𝐴, ℓ𝐵 y ℓ𝐶 , de masas iguales y temperaturas iniciales 12 ◦ C, 18 ◦ C y 28 ◦ C,
+respectivamente. Cuando se mezclan ℓ 𝐴 con ℓ𝐵 , la temperatura de final de la mezcla es de 16 ◦ C. En cambio,
+cuando se mezclan ℓ𝐵 con ℓ𝐶 , la temperatura final es de 23 ◦ C. Determine la temperatura final de la mezcla de los
+líquidos ℓ 𝐴 con ℓ𝐶 . Considere que para la situación descrita no se producen cambios de fase.
+3. En el vaso aislante de una juguera comercial se introducen 450 [g] de agua a 15 ◦ C y 600 [g] de hielo a −15 ◦ C. La
+juguera se hace funcionar durante dos minutos y, luego de alcanzar el equilibrio térmico, en el interior del vaso hay
+agua a 5 ◦ C. Determine la potencia de la juguera expresando su resultado en unidades internacionales.
+4. Considere una olla de cobre, de masa 𝑚 = 2 [kg] (incluida su tapa), la cual está a una temperatura 𝑇 = 130 ◦ C.
+Sobre ella se vierten 30 [g] de agua inicialmente a 10 ◦ C y se tapa herméticamente. Determine el porcentaje de
+masa de agua que cambia de fase.
+8
+
+Referencias
+
+REFERENCIAS
+
+Demtröder, W. (2017). Mechanics and Thermodynamics. Springer International Publishing.
+https://doi.org/10.1007/978-3-319-27877-3
+Hugh, Y., & Freedman, R. (2018). Física universitaria con física moderna 1 (14.a ed., Vol. 1). Pearson
+Educación de México.
+Serway, R. A., & Jewett, J. W. (2019). Física para ciencias e ingeniería 1 (10.a ed., Vol. 1). Cengage
+Learning.
+
+10
+
+Calor & Ondas
+Calorimetría
+
+Oscar Aravena O.
+Facultad de Ingeniería
+Universidad de Valparaíso
+Primer Semestre – 2026
+
+11
+
+Calor & Ondas
+Transferencia de Calor
+
+Oscar Aravena O.
+Facultad de Ingeniería
+Universidad de Valparaíso
+Primer Semestre – 2026
+
+1
+
+Transferencia de Calor
+
+TRANSFERENCIA DE CALOR
+Mecanismos de transferencia de calor
+
+• Radiación: propagación de energía mediante ondas
+electromagnéticas. Este mecanísmo no requiere de un
+medio material para llevarse a cabo.
+• Convección: transporte conjunto de energía y masa debido
+a diferencias de temperatura. Esta puede manifestarse dos
+maneras:
+◦ Natural: circulación de aire en radiadores, brisas marinas,
+etc.
+◦ Forzada: ventilador, secador de pelo, bomba de calor, etc.
+
+• Conducción: propagación de energía por contacto directo,
+sin transporte de masa.
+3
+
+TRANSFERENCIA DE CALOR
+Radiación
+
+2𝜋𝑐𝑘 𝐵𝑇
+I (𝜆) =
+𝜆4
+• Explicación de Planck:
+I (𝜆) =
+
+2𝜋ℎ𝑐2
+𝜆5 𝑒 ℎ𝑐/𝜆𝑘𝐵 𝑇 − 1
+
+
+
+• Ley de desplazamiento de Wien:
+𝜆máx𝑇  2,90 × 10
+
+−3
+
+Irradiancia espectral [W m-2 nm-1 ]
+
+Espectro de cuerpo negro: T = 5800 [K]
+
+• Explicación de Rayleigh-Jeans:
+
+100 000
+
+Planck
+Rayleigh–Jeans
+
+80 000
+
+60 000
+
+40 000
+
+20 000
+
+0
+
+1000
+
+;
+
+[m K]
+
+0≤𝜀≤1
+
+3000
+
+4000
+
+λ [nm]
+
+𝑘 𝐵  1, 38 × 10−23
+
+
+
+• Ley de Stephan-Boltzmann:
+I = 𝜀𝜎𝑆𝐵𝑇 4
+
+2000
+
+𝜎𝑆𝐵 =
+
+J
+K
+
+
+;
+
+ℎ  6, 626 × 10−34
+
+ 
+J
+s
+
+2𝜋 5 𝑘 4𝐵
+
+
+
+W
+−8
+
+5,
+67
+×
+10
+15𝑐2 ℎ3
+m2 K 4
+4
+
+TRANSFERENCIA DE CALOR
+Radiación
+
+Para mayor información visite: ¡la página de la NASA!
+
+5
+
+TRANSFERENCIA DE CALOR
+Flujo (concepto genérico)
+
+El flujo es la tasa de transporte de una cantidad extensiva (energía, masa, carga, etc.)
+por unidad de tiempo.
+Considere los autos que transitan por la Avenida España. Llamamos “flujo vehícular” a la cantidad
+de vehículos por unidad de tiempo que circulan, es decir:
+𝐽𝑉 =
+
+# vehículos
+tiempo
+
+Nótese que esta cantidad depende del número de pistas habilitadas, es decir, del área transversal por
+la cual circulan los vehículos. Definimos entonces la densidad de flujo como el flujo por unidad
+de área, en nuestro ejemplo:
+𝐽𝑉
+# vehículos
+=
+J𝑉 =
+𝐴
+tiempo × área
+6
+
+TRANSFERENCIA DE CALOR
+Radiación
+
+Ejercicio que todo ingeniero/a debe conocer
+
+La intensidad de la radiación
+
+ solar que llega a las capas superiores de la atmósfera terrestre es de,
+kW
+aproximadamente, 1, 4
+–¡este es un valor a recordar para toda la vida!–. Considere además
+m2
+que la distancia de la Tierra al Sol es de 1, 00 [UA] 1 .
+a) Determine la potencia total de la radiación que emite el Sol.
+b) Determine la temperatura en la superficie del Sol ¿De qué color debería verse?
+c) Calcule la potencia de la radiación solar recibida en la Tierra.
+d) Averigüe (lea al respecto) cuánta energía necesita Chile para funcionar (demanda) y, en base
+a ello, ¿qué superficie se debería cubrir con paneles solares para tales propósitos? Explique
+por qué esto es inviable!
+1 Unidad Astronómica: distancia equivalente a, aproximadamente, 150 millones de kilómetros.
+7
+
+TRANSFERENCIA DE CALOR
+Conducción
+
+Considere una barra metálica de longitud 𝐿, cuyos
+extremos se encuentran a temperaturas fijas 𝑇𝑎 y 𝑇𝑏 ,
+siendo 𝑇𝑎 > 𝑇𝑏 .
+Por el momento, supongamos que la temperatura no
+varía en el tiempo, pero es distinta en cada lugar
+del espacio –estado estacionario–. Empíricamente,
+encontramos lo siguiente2 :
+• A mayor sección transversal, 𝐴, mayor flujo de calor.
+
+𝑑𝑄
+Δ𝑇
+= 𝐽𝑄 = 𝐻 ∝ 𝐴
+𝑑𝑡
+𝐿
+
+• A mayor longitud, 𝐿, menor flujo de calor.
+• El flujo de calor depende del material de la barra.
+
+𝐽𝑄 = −𝜅 𝐴
+
+𝑑𝑇
+𝑑𝑥
+
+2 En general evitaremos usar la letra 𝐻 para referirnos al flujo de calor, pues 𝐻 está reservada para cosas más
+importantes, como la Entalpía.
+8
+
+TRANSFERENCIA DE CALOR
+Conducción
+
+Tabla 1:
+Conductividad térmica de distintos materiales (Hugh & Freedman, 2018)
+
+
+W
+Material
+Conductividad térmica
+mK
+Acero
+Aluminio
+Cobre
+Latón
+Plata
+Plomo
+Corcho
+Fieltro
+Fibra de vidrio
+Hormigón
+Ladrillo (aislante)
+Ladrillo (tabiquería)
+Vidrio
+
+50
+205
+385
+109
+406
+35
+0,04
+0,04
+0,04
+0,8
+0,15
+0,6
+0,8
+9
+
+TRANSFERENCIA DE CALOR
+Conducción
+
+Ejercicio
+
+Un termo–panel, o “ventana de doble vidrio”, está formado por dos
+placas de vidrio de 10 [mm] de espesor que encierran una capa de argón
+también de 10 [mm]. Suponga que la cara exterior del panel está a
+◦
+−5 ◦ C y la cara interior
+ 2a15 C. Además, considere un termo-panel de
+área transversal de 1 m , determine:
+a) La diferencia de temperatura a la cual se encuentra sometida la capa de argón.
+b) El flujo de energía (calor) a través del termo–panel.
+c) El espesor que debería tener un solo vidrio para igualar la resistencia térmica del termo–panel.
+
+𝜅 𝑣𝑖𝑑𝑟𝑖𝑜 = 0,8
+
+W
+mK
+
+
+
+
+;
+
+𝜅 𝐴𝑟 = 0,02
+
+W
+mK
+
+
+
+10
+
+TRANSFERENCIA DE CALOR
+Conducción
+
+Ejercicio
+Considere una tubería cilíndrica de largo 𝐿, conductividad térmica 𝜅, radio interno 𝑅1 y externo 𝑅2 (𝑅2 > 𝑅1 ).
+Por el interior de la tubería se transporta un fluido a temperatura 𝑇1 , mientras que el exterior permanece a
+una temperatura 𝑇2 < 𝑇1 . Considerando que el sistema se encuentra en estado estacionario:
+a) Determine la potencia transferida desde el interior hacia el exterior.
+b) Obtenga la temperatura en función del radio, 𝑇 (𝑟). ¿Varía linealmente como en el caso del termo–panel?
+c) ¿A qué distancia, medida desde 𝑟 = 𝑅1 , la temperatura ha disminuido en la mitad de 𝑇1 − 𝑇2 ?
+d) Grafique 𝑇 (𝑟) para 𝑅1 ≤ 𝑟 ≤ 𝑅2 y verifique los resultados anteriores.
+e) Analice el límite en que
+de Taylor:
+
+𝑅2 − 𝑅1
+𝑟 − 𝑅1
+≪1y
+≪ 1, para ello considere la siguiente expansión en Serie
+𝑅1
+𝑅1
+ln (1 + 𝜀) = 𝜀 −
+
+𝜀2 𝜀3
++
+−··· ≈ 𝜀
+2
+3
+...Comente al respecto!
+11
+
+TRANSFERENCIA DE CALOR
+Conducción
+
+Analicemos la geometría de la solución:
+Sa) En estado estacionario el flujo es constante.
+𝐽𝑄 = − 𝜅 𝐴
+
+𝑑𝑇
+𝑑𝑟
+
+𝐽𝑄 = − 𝜅 (2𝜋𝑟 𝐿)
+
+𝑑𝑇
+𝑑𝑟
+
+𝑑𝑟
+= −2𝜋𝜅𝑑𝑇
+𝑟
+↓
+∫ 𝑟 ′ =𝑅2 ′
+∫ 𝑇 ′ =𝑇2
+𝑑𝑟
+= −2𝜋𝜅
+𝑑𝑇 ′
+𝐽𝑄
+𝑟′
+𝑇 ′ =𝑇1
+𝑟 ′ =𝑅1
+𝐽𝑄
+
+𝐽𝑄 =
+
+2𝜋𝜅 (𝑇1 − 𝑇2 )
+ln (𝑅2 /𝑅1 )
+12
+
+TRANSFERENCIA DE CALOR
+Conducción
+
+Sb) El flujo es constante en todo el espacio. Llamando
+𝑇2 → 𝑇 (𝑟) y 𝑅2 → 𝑟:
+2𝜋𝜅 (𝑇1 − 𝑇2 ) 2𝜋𝜅 (𝑇1 − 𝑇 (𝑟))
+=
+ln (𝑅2 /𝑅1 )
+ln (𝑟/𝑅1 )
+↓
+
+𝑇 (𝑟) = 𝑇1 − (𝑇1 − 𝑇2 )
+
+ln (𝑟/𝑅1 )
+ln (𝑅2 /𝑅1 )
+
+• ¿Qué sucede si 𝑟 → 𝑅1 ?
+• ¿Qué sucede si 𝑟 → 𝑅2 ?
+• Entonces... ¿Varía linealmente la temperatura radialmente?
+13
+
+TRANSFERENCIA DE CALOR
+Conducción
+
+Sc) Evaluamos 𝑇 (𝑟) =
+
+𝑇1 + 𝑇2
+, luego:
+2
+𝑇1 + 𝑇2
+ln (𝑟/𝑅1 )
+= 𝑇1 − (𝑇1 − 𝑇2 )
+2
+ln (𝑅2 /𝑅1 )
+↓
+ln (𝑟/𝑅1 )
+𝑇1 + 𝑇2 = 2𝑇1 − 2 (𝑇1 − 𝑇2 )
+ln (𝑅2 /𝑅1 )
+↓
+ln (𝑟/𝑅1 )
+1
+=
+ln (𝑅2 /𝑅1 ) 2
+
+𝑟=
+
+√
+𝑅1 𝑅2
+
+=⇒
+
+La distancia solicitada es: 𝑟 =
+
+√
+
+𝑅1 𝑅2 − 𝑅1
+14
+
+TRANSFERENCIA DE CALOR
+Conducción
+
+Sd)
+
+𝑅2 − 𝑅1
+𝑟 − 𝑅1
+≪1y
+≪ 1,
+𝑅1
+𝑅1
+𝑅2 − 𝑅1
+𝑟 − 𝑅1
+y 𝜀0 =
+, luego:
+definimos 𝜀 =
+𝑅1
+𝑅1
+
+Se) En el caso de un tubo delgado,
+
+
+
+
+𝑟 − 𝑅1
+𝑟
+= ln 1 +
+= ln (1 + 𝜀) ≈ 𝜀
+◦ ln
+𝑅1
+𝑅1
+ 
+
+
+𝑅2
+𝑅2 − 𝑅1
+◦ ln
+= ln 1 +
+= ln (1 + 𝜀 0 ) ≈ 𝜀 0
+𝑅1
+𝑅1
+
+
+𝜀
+𝜀0
+Luego, la temperatura en función del radio nos queda:
+𝑇 (𝑟) ≈ 𝑇1 − (𝑇1 − 𝑇2 )
+
+
+
+𝑟 − 𝑅1
+𝑇 (𝑟) ≈ 𝑇1 − (𝑇1 − 𝑇2 )
+𝑅2 − 𝑅1
+
+
+
+¿A qué se parece? Comente al respeto!
+15
+
+TRANSFERENCIA DE CALOR
+Conducción
+
+Ejercicio: formación de una capa de hielo
+
+Considere un lago extenso, de área 𝐴, cuya superficie se encuentra expuesta a una temperatura
+ambiente constante 𝑇𝑎 < 0 ◦ C. El lago está parcialmente congelado, con una capa de hielo de
+espesor 𝐻0 sobre el agua líquida. Suponga que la transferencia de calor a través del hielo ocurre
+únicamente por conducción y que la temperatura ambiente se mantiene constante en el tiempo
+–estado estacionario–.
+a) Determine una expresión para el flujo de calor (potencia) a través de la capa de hielo.
+b) Plantee un modelo que permita determinar cómo crece la capa de hielo a medida que el agua se
+congela con el tiempo; denote dicho espesor como ℎ(𝑡). Explique su razonamiento.
+c) Determine una expresión para calcular el tiempo que tardará la capa de hielo en duplicar su
+espesor inicial 𝐻0 . Mantenga la temperatura ambiente constante.
+d) Grafique la formación del hielo en función del tiempo, ℎ (𝑡). Comente al respecto.
+16
+
+TRANSFERENCIA DE CALOR
+Conducción
+
+Analicemos el modelo de formación de una capa de hielo:
+• El flujo neto de calor (potencia) a través de una
+capa de hielo ya formada será:
+
+¡Hielo ya
+formado!
+
+Δ𝑇
+ℎ
+• Esta energía proviene de una capa de hielo en
+formación! Es decir:
+𝐽 = −𝜅 𝐴
+
+𝑄 = 𝐿𝑚 𝑖𝑐𝑒 =⇒ 𝐽 =
+
+𝑑𝑄 𝐿 𝑓 (𝜌 𝐴 𝑑ℎ)
+=
+𝑑𝑡
+𝑑𝑡
+
+¡Temperatura aumenta!
+
+Pero ambos flujos son los mismos, luego:
+𝜅
+
+Δ𝑇
+𝑑ℎ
+= 𝜌𝐿 𝑓
+ℎ
+𝑑𝑡
+
+¿Cómo procedemos?
+17
+
+TRANSFERENCIA DE CALOR
+Conducción
+
+Modelo de formación de una capa de hielo
+
+Δ𝑇
+𝑑ℎ
+= 𝜌𝐿 𝑓
+ℎ
+𝑑𝑡
+↓
+𝜅Δ𝑇
+ℎ𝑑ℎ =
+𝑑𝑡
+𝜌𝐿 𝑓
+
+140
+
+𝜅
+
+120
+
+h(t) [cm]
+
+100
+
+↓
+∫ ℎ (𝑡 )
+𝐻
+
+𝜅Δ𝑇
+ℎ𝑑ℎ =
+𝜌𝐿 𝑓
+
+∫ 𝑡
+𝑑𝑡
+
+ℎ (𝑡) =
+
+𝐻02 +
+
+60
+
+′
+
+0
+
+↓
+
+√︄
+
+80
+
+40
+20
+
+
+
+
+2𝜅Δ𝑇
+𝑡
+𝜌𝐿 𝑓
+
+0
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+t (horas)
+
+18
+
+TRANSFERENCIA DE CALOR
+Conducción
+
+Figura 1: Camión de carga circulando sobre una “carretera de hielo” (Ice Road) en Canadá. Estas rutas
+invernales se forman sobre lagos congelados, donde el hielo puede alcanzar espesores del orden de un metro o
+más, permitiendo el tránsito de vehículos pesados. Sin embargo, es necesario controlar cuidadosamente la
+velocidad de los vehículos para evitar la generación de ondas en el hielo que puedan provocar su fractura.
+Para mayor información, puede ver el siguiente documental.
+
+19
+
+Transferencia de Calor:
+Caso General
+
+TRANSFERENCIA DE CALOR
+Para el caso general 𝑇 → 𝑇 (𝑥, 𝑦 𝑧, 𝑡) es decir, la temperatura dependerá del lugar del espacio en
+que estemos, y además del tiempo. Enfoquémosnos en el caso unidimensional: 𝑇 → 𝑇 (𝑥, 𝑡). A
+partir de la conservación de la energía –¡un clásico!–:
+Δ𝐽𝑄 + 𝑐𝑚
+
+Δ𝑇
+−𝜅 𝐴
+Δ𝑥
+
+
+
+Δ𝑇
+=0
+Δ𝑡
+
+Δ𝑇
++ 𝜅𝐴
+Δ𝑥
+𝑥+Δ𝑥
+
+
+
+
+
+
+
+Δ𝑇
+Δ𝑥
+
+Δ𝑇
+−
+Δ𝑥
+𝑥+Δ𝑡
+Δ𝑥
+
+= −𝑐 (𝜌 𝐴Δ𝑥)
+𝑥
+
+𝑥
+
+=
+
+Δ𝑇
+Δ𝑡
+
+𝜌𝑐 Δ𝑇
+𝜅 Δ𝑡
+
+¿Qué representa el lado izquierdo?
+21
+
+TRANSFERENCIA DE CALOR
+Tomamos el caso límite, pero ahora cuando de manera simultánea tanto el tiempo como el espacio
+tienden a cero, es decir:
+
+lı́m
+
+Δ𝑥→0
+
+Δ𝑇
+Δ𝑥
+
+
+
+Δ𝑇
+−
+Δ𝑥
+𝑥+Δ𝑡
+Δ𝑥
+
+
+𝑥
+
+=
+
+𝜌𝑐
+Δ𝑇
+lı́m
+𝜅 Δ𝑡→0 Δ𝑡
+
+𝜕𝑇
+𝜕 2𝑇
+=𝐷
+2
+𝜕𝑡
+𝜕𝑥
+𝜅
+recibe el nombre de constante de difusión térmica y caracteriza la rapidez
+𝜌𝑐
+con que un material responde a variaciones de temperatura. En particular, 𝐷 mide la relación entre
+la capacidad del material para conducir calor (𝜅) y su capacidad para almacenarlo (𝜌𝑐). Un valor
+alto de 𝐷 implica que el material transmite rápidamente los cambios térmicos a través de su interior,
+mientras que un valor bajo indica una respuesta más lenta y amortiguada.
+
+La constante 𝐷 =
+
+22
+
+Referencias
+
+REFERENCIAS
+
+Demtröder, W. (2017). Mechanics and Thermodynamics. Springer International Publishing.
+https://doi.org/10.1007/978-3-319-27877-3
+Hugh, Y., & Freedman, R. (2018). Física universitaria con física moderna 1 (14.a ed., Vol. 1). Pearson
+Educación de México.
+NASA Goddard Space Flight Center. (2025). Solar Irradiance.
+OpenAI. (2022). ChatGPT [Utilizado para la creación de imágenes mediante la integración con
+DALL·E]. https://chat.openai.com/
+Pellegrini, C. C. (2024).Optimizing Beer Glass Shapes to Minimize Heat Transfer – New Results.
+http://arxiv.org/abs/2410.12043
+Serway, R. A., & Jewett, J. W. (2019). Física para ciencias e ingeniería 1 (10.a ed., Vol. 1). Cengage
+Learning.
+
+24
+
+Calor & Ondas
+Transferencia de Calor
+
+Oscar Aravena O.
+Facultad de Ingeniería
+Universidad de Valparaíso
+Primer Semestre – 2026
+
+25
+
+Calor & Ondas
+Teoría Cinética de los Gases
+
+Oscar Aravena O.
+Facultad de Ingeniería
+Universidad de Valparaíso
+Primer Semestre – 2026
+
+1
+
+Acerca de los gases
+
+ACERCA DE LOS GASES
+
+¿Qué son los gases?
+Definimos la presión como la magnitud de la
+componente perpendicular de la fuerza respecto al
+área de la superficie de contacto, es decir:
+𝐹⊥
+𝐴
+donde 𝐹⊥ es la componente de fuerza normal a
+la superficie y 𝐴 el área de contacto. La presión
+es, por tanto, una cantidad escalar. En el sistema
+internacional, la presión se mide en Pascales, [Pa].
+Algunas equivalencias de las unidades de medición de presión son:
+ 
+N
+; 1 [atm] = 101.325 [Pa] = 101, 325 [kPa]
+1 [Pa] = 1
+m2
+𝑃=
+
+;
+
+1 [bar] = 100 [kPa]
+3
+
+ACERCA DE LOS GASES
+Antecedentes históricos
+
+Cuando se formularon las primeras leyes de los gases, la noción de temperatura no era la actual
+–tampoco la de presión–. Se hablaba de “grado de calor” medido con termómetros rudimentarios.
+Solo después, en el siglo XIX, la teoría cinética y la escala Kelvin permitieron fundamentar
+científicamente lo que hoy entendemos por temperatura. Revisemos algunos antecedentes históricos
+al respecto:
+Antecedentes históricos
+
+• Ley de Boyle (1662): Robert Boyle observó que, a temperatura constante, la presión de un gas
+es inversamente proporcional a su volumen.
+Más tarde, Mariotte (1676) llegó a la misma conclusión en Francia, por lo que en algunos
+textos se conoce como ley de Boyle-Mariotte.
+𝑃𝑉 = 𝑐𝑡𝑒.
+
+4
+
+ACERCA DE LOS GASES
+Antecedentes históricos
+
+Antecedentes históricos
+
+• Ley de Charles (1787): Jacques Charles descubrió experimentalmente que, a presión
+constante, el volumen de un gas aumenta proporcionalmente con la temperatura.
+Sus resultados no fueron publicados por él, pero fueron difundidos posteriormente por
+Gay–Lussac en 1802.
+𝑉
+= 𝑐𝑡𝑒.
+𝑇
+• Ley de Gay-Lussac (1808): Joseph-Louis Gay-Lussac formuló la ley de volúmenes de
+combinación, que establece que los gases reaccionan en proporciones de volúmenes simples, lo
+que reforzó la base de la teoría atómica de Dalton.
+𝑃
+= 𝑐𝑡𝑒.
+𝑇
+5
+
+ACERCA DE LOS GASES
+Antecedentes históricos
+
+Los resultados experimentales de Gay-Lussac se representan en el gráfico
+adjunto. Nótese que independiente del gas, las proyecciones de las rectas
+convergen a una temperatura común.
+Experimento (simulado) de la Ley de Gay-Lussac
+140
+
+Presión [kPa]
+
+120
+100
+80
+60
+40
+
+gas 1
+gas 2
+
+20
+0
+-300
+
+gas 3
+-200
+
+-100
+
+0
+
+100
+
+𝑇𝐾 = 𝑇𝐶 + 273,15
+
+Temperatura (°C)
+6
+
+ACERCA DE LOS GASES
+Antecedentes históricos
+
+Antecedentes históricos
+
+• Ley de Avogadro (1811): Amedeo Avogadro propuso que, bajo las mismas condiciones de
+presión y temperatura, volúmenes iguales de gases distintos contienen el mismo número de
+partículas.
+𝑉
+= 𝐶𝑡𝑒.
+𝑁
+Esta idea fue fundamental para el desarrollo del concepto de mol y de la constante de Avogadro:
+
+
+𝑁
+1
+23
+;
+𝑛=
+−→ siendo 𝑛 el número de moles
+𝑁 𝐴  6,022 × 10
+mol
+𝑁𝐴
+
+Un mol es la unidad con que se mide la cantidad de
+materia/sustancia, independiente de su composición. Es
+como contar “docenas” –¡pero docenas más grandes!–
+7
+
+ACERCA DE LOS GASES
+Masa molar
+La masa molar es una propiedad física que representa
+la masa de un mol de entidades elementales (átomos,
+moléculas, etc) de una sustancia.
+h g i Se expresa en
+unidades de gramos por mol,
+, en el Sistema
+mol
+Internacional y constituye un vínculo directo entre la
+escala microscópica (número de partículas dado por
+el número de Avogadro, 𝑁 𝐴) y la escala macroscópica
+(masa que podemos medir en el laboratorio).
+
+Tabla 1:
+Masa molar de algunos elementos en orden de la
+tabla periódica
+Elemento
+(Molécula estable)
+
+Masa molar
+(g/mol)
+
+H2
+
+2
+
+He
+
+4
+
+O2
+
+32
+
+La masa molar corresponde a la masa de un mol de
+entidades elementales. Para los gases diatómicos (H2 ,
+O2 , N2 , Cl2 ) se considera su forma molecular estable.
+
+N2
+
+28
+
+Cl2
+
+71
+
+En el caso de gases nobles (He, Ar), la forma estable
+es monoatómica –¿por qué?–.
+
+Ar
+
+40
+
+CO2
+
+44
+8
+
+ACERCA DE LOS GASES
+
+9
+
+ACERCA DE LOS GASES
+Definiciones generales
+
+En síntesis:
+𝑃𝑉 ∝ 𝑁𝑇 =⇒ 𝑃𝑉 = 𝑁 𝑘 𝐵𝑇
+donde 𝑘 𝐵 se conoce como la Constante de Boltzmann cuyo valor es:
+ 
+J
+−23
+𝑘 𝐵  1, 38 × 10
+K
+La expresión anterior se conoce como la Ecuación de estado del gas ideal. En la práctica, esta
+ecuación se expresa en términos de la cantidad total de moles, es decir:
+
+
+𝑃𝑉 = 𝑛𝑅𝑇
+
+;
+
+
+
+
+J
+atm ℓ
+𝑅 = 𝑁 𝐴 𝑘 𝐵  8, 3
+≈ 0,08
+mol K
+mol K
+10
+
+ACERCA DE LOS GASES
+Algunas definiciones relevantes
+
+1. Gas Ideal: idealización de un gas real, donde:
+◦ Se asume una baja densidad del gas.
+◦ Las partículas colisionan elásticamente entre sí siguiendo las leyes de Newton.
+◦ El tiempo de duración de las colisiones es despreciable.
+◦ En la práctica ¡es un gas diluido!
+
+2. Variables de Estado: variables macroscópicas que caracterizan un sistema termodinámico,
+por ejemplo:
+◦ Presión.
+◦ Volumen.
+◦ Temperatura.
+◦ Número de partículas o moles, etc.
+
+3. Ecuación de Estado: relación matemática entre las variables de estado que describen el
+sistema macroscópico.
+11
+
+TEORÍA CINÉTICA DE LOS GASES
+Ejercicios
+
+ 
+1. Estime la masa de aire contenido en 1 m3 de aire ¿Cuál sería su densidad?
+2. Estime el número de moléculas de Nitrógeno y Oxigeno en una sala de clases tradicional ¿A
+cuántos moles equivalen?
+3. ¿Qué volumen ocupa 1 [mol] de un gas ideal a condiciones normales de presión y
+temperatura?
+4. La atmósfera de Marte es rica en 𝐶𝑂 2 . En su superficie la presión atmosférica es de 650 [Pa] y
+la temperatura media en la superficie es de −20 ◦ C. Determine la densidad de la atmósfera
+cerca de la superficie.
+h g i
+h g i
+Información posiblemente útil: 𝑚 𝐶 = 12
+y 𝑚 𝑂2 = 32
+.
+mol
+mol
+12
+
+TEORÍA CINÉTICA DE LOS GASES
+Ejercicio
+
+Dos bulbos de vidrio idénticos están interconectados por medio de un tubo delgado, también de
+vidrio y volumen despreciable. Se procede a llenar con el mismo gas ideal cada uno de los bulbos,
+encontrándose éste a 0 ◦ C y 1 [atm] de presión. Se coloca uno de los bulbos en un baño de agua
+con hielo, y el otro en un baño de vapor de agua. Debido a esta acción, la presión del gas en el
+segundo bulbo aumentó en un 50 %.
+Determine la temperatura de equilibrio del
+bulbo sumergido en el baño de vapor de agua.
+Exprese su resultado en grados Celsius.
+Importante: No asuma que la temperatura
+del vapor es 100◦ C, pues no hay dos fases
+coexistiendo.
+
+13
+
+Teoría cinética de los gases
+
+TEORÍA CINÉTICA DE LOS GASES
+
+Usaremos el hecho de que las partículas colisionan elásticamente entre sí, y con la pared del
+recipiente siguiendo las leyes de Newton. Para ello comenzaremos por definir la concentración de
+un gas como:
+𝑁
+=
+𝑉
+
+∫
+
+𝑑 3 𝑣 𝑓 (®𝑣 )
+
+(1)
+
+donde 𝑓 (𝑣) representa una función de distribución de velocidades moleculares de las partículas el
+gas. Prestando atención a una sola colisión tenemos:
+Δ 𝑝®1 = 2𝑚𝑣 𝑥 𝚤ˆ
+
+15
+
+TEORÍA CINÉTICA DE LOS GASES
+De esta manera que el intercambio total de momentum total viene dado por:
+
+Δ 𝑝® 𝑡𝑜𝑡 𝑎𝑙 = 𝑁 × Δ 𝑝®1
+↓
+
+Δ 𝑝® 𝑡𝑜𝑡 𝑎𝑙 =
+
+∫
+∀𝑣
+
+𝑑 3 𝑣 (𝑉 𝑜𝑙.) 2𝑚𝑣 𝑥 𝑓 (®𝑣 ) 𝚤ˆ
+| {z }
+= 𝐴𝑣𝑥 Δ𝑡
+
+↓
+∫
+
+Δ 𝑝® 𝑡𝑜𝑡 𝑎𝑙 = 𝑚 𝐴Δ𝑡
+
+𝑑 3 𝑣 𝑣 2𝑥 𝑓 (®𝑣 ) 𝚤ˆ
+
+𝑣𝑥 >0
+
+A partir de la segunda ley de Newton calculamos la fuerza neta que ejerce el gas sobre la pared:
+
+∫
+Δ 𝑝®
+®
+𝐹 = lı́m
+= 𝑚𝐴
+𝑑 3 𝑣 𝑣 2𝑥 𝑓 (®𝑣 ) 𝚤ˆ
+(2)
+Δ𝑡→0 Δ𝑡 𝑡𝑜𝑡 𝑎𝑙
+𝑣𝑥 >0
+16
+
+TEORÍA CINÉTICA DE LOS GASES
+De (2) obtenemos directamente la presión que ejerce el gas sobre la pared:
+∫
+𝐹𝑥
+𝑃=
+=𝑚
+𝑑 3 𝑣 𝑣 2𝑥 𝑓 (®𝑣 )
+𝐴
+𝑣𝑥 >0
+∫
+𝑁 2
+𝑑 3 𝑣 𝑣 2𝑥 𝑓 (®𝑣 ) =
+La integral del lado derecho corresponde a1 :
+𝑣 . Luego:
+𝑉 𝑥
+𝑣𝑥 >0
+𝑃=𝑚
+
+𝑁 2
+𝑣
+𝑉 𝑥
+
+𝑃𝑉 = 𝑁𝑚 𝑣 2𝑥
+
+(3)
+
+Si en vez de haber usado la componente 𝒗 𝒙 de la velocidad hubiésemos usado otra
+–por ejemplo 𝒗 𝒚 – ¿Cambiaría en algo (3)?
+1 Ver anexo al final!
+17
+
+TEORÍA CINÉTICA DE LOS GASES
+Cada grado de libertad contribuye de la misma manera en el cálculo total de 𝑣 2 . Es decir:
+𝑣® = 𝑣 𝑥 𝚤ˆ + 𝑣 𝑦 𝚥ˆ + 𝑣 𝑧 𝑘ˆ
+y por simetría estadística: 𝑣 2𝑥 = 𝑣 2𝑦 = 𝑣 2𝑧 =
+𝑃𝑉 =
+
+=⇒
+
+𝑣 2 = 𝑣 2𝑥 + 𝑣 2𝑦 + 𝑣 2𝑧
+
+1 2
+𝑣 . Así, reescribimos (3) como:
+3
+
+1
+2
+2
+𝑁𝑚 𝑣 2 = 𝑁 ⟨𝐸 𝑘 ⟩ = 𝑈
+3
+3
+3
+
+1
+donde ⟨𝐸 𝑘 ⟩ = 𝑚 𝑣 2 representa la energía cinética promedio por partícula, mientras que 𝑈 la
+2
+energía interna del gas. Al comparar la expresión anterior con la ecuación de estado del gas ideal,
+concluimos:
+
+3
+⟨𝐸 𝑘 ⟩ = 𝑘 𝐵𝑇
+2
+18
+
+TEORÍA CINÉTICA DE LOS GASES
+
+Así, la temperatura (una variable de estado) resulta ser una medida indirecta de la energía
+cinética promedio de las partículas del gas. A su vez, la presión (también variable de
+estado) representa una medida indirecta del golpeteo de las partículas contra las paredes.
+Rapidez cuadrática media2
+
+Definimos la rapidez cuadrática media como:
+𝑣 𝑟 𝑚𝑠 =
+
+√︃
+
+𝑣2
+
+Así, para el caso de un gas ideal, la rapidez cuadrática media viene dada:
+√︂
+3𝑘 𝐵𝑇
+• Por partícula: 𝑣 𝑟 𝑚𝑠 =
+𝑚
+√︂
+3𝑅𝑇
+• Por mol de partícula: 𝑣 𝑟 𝑚𝑠 =
+M 𝑚𝑜𝑙𝑎𝑟
+2 RMS = Root Mean Square.
+
+19
+
+TEORÍA CINÉTICA DE LOS GASES
+
+Ejercicio
+
+ 
+Considere un auditorio de clases de volumen 𝑉 ≈ 103 m3 , a temperatura ambiente 𝑇 ≈ 300 [K],
+y presión atmosférica 𝑃 ≈ 1 [atm] ≈ 105 [Pa]. Estime:
+a) La rapidez cuadrática media de las moléculas de nitrógeno en el auditorio.
+b) El flujo de colisiones moleculares sobre las paredes de la sala, definido como
+número de colisiones
+cm2 × s
+c) La separación promedio entre moléculas en el auditorio.
+J=
+
+20
+
+TEORÍA CINÉTICA DE LOS GASES
+La distribución de Maxwell-Boltzmann
+
+La distribución de velocidades moleculares de Maxwell Boltzmann viene dada por3
+
+
+
+𝑚
+𝑓 (𝑣) = 4𝜋
+2𝜋𝑘 𝐵𝑇
+
+ 3/2
+
+2
+
+𝑣 2 𝑒 −𝑚𝑣 /2𝑘 𝐵𝑇
+
+Distribución de Maxwell–Boltzmann (nitrógeno)
+0.0035
+0.0030
+
+f(v)
+
+0.0025
+0.0020
+0.0015
+0.0010
+
+T = 100 K
+
+0.0005
+
+T = 300 K
+
+0.0000
+
+T = 500 K
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+Velocidad v (m/s)
+
+3 Véase el anexo para una deducción más completa.
+
+21
+
+TEORÍA CINÉTICA DE LOS GASES
+La distribución de Maxwell-Boltzmann
+
+Nótese que a partir de la Distribución de Maxwell Boltzmann podemos obtener4 :
+Distribución de Maxwell–Boltzmann (N₂) — T = 300 K
+
+• La velocidad más probable (moda):
+√︂
+2𝑘 𝐵𝑇
+𝑣𝑚𝑝 =
+𝑚
+
+vmp
+〈v〉
+vrms
+
+0.0015
+
+f(v)
+
+• La velocidad media (promedio):
+√︂
+8𝑘 𝐵𝑇
+⟨𝑣⟩ =
+𝜋𝑚
+
+0.0020
+
+0.0010
+
+0.0005
+
+• La velocidad cuadrática
+media:
+√︂
+3𝑘 𝐵𝑇
+𝑣 𝑟 𝑚𝑠 =
+𝑚
+
+0.0000
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+Velocidad v (m/s)
+
+4 La deducción de estas expresiones queda solo para los/las estudiantes más motivados/as.
+22
+
+Transformaciones de fase
+
+P [Pa]
+
+TRANSFORMACIONES DE FASE
+108
+
+108
+
+107
+
+107
+
+106
+
+106
+
+105
+
+105
+
+104
+
+104
+
+103
+
+103
+
+102
+
+102
+450
+
+200
+
+250
+
+300
+
+T [K]
+
+350
+
+400
+
+24
+
+TRANSFORMACIONES DE FASE
+En el modelo que subyace a la ecuación de estado de un gas ideal, la presión no discrimina el tipo de
+partícula. Por ello, en una mezcla ideal la presión total es la suma de las presiones parciales de
+cada componente:
+𝑃𝑡𝑜𝑡 𝑎𝑙 =
+
+∑︁
+
+𝑃 𝑝𝑎𝑟 𝑐𝑖𝑎𝑙
+
+En el caso del aire tenemos:
+𝑃 𝑎𝑖𝑟 𝑒 = 𝑃 𝑁2 + 𝑃𝑂2 + 𝑃 𝐻2 𝑂 + 𝑃𝐶𝑜2 + . . .
+En la práctica siempre es útil conocer la cantidad de vapor de agua que es capaz de contener la
+atmósfera para determinadas condiciones termodinámicas (presión y temperatura), esta cantidad es
+fija y se puede extraer del diagrama PT del agua.
+25
+
+TRANSFORMACIONES DE FASE
+Humedad Relativa
+
+La humedad relativa es la razón entre la cantidad de vapor de agua existente en la atmósfera bajo
+determinadas condiciones de presión y temperatura, sobre la presión de equilibrio del vapor de agua
+en las mismas condiciones, es decir:
+
+Humedad Relativa =
+
+Presión del vapor
+Presión de Saturación en curva PT
+
+Ejercicio (continuación)
+
+ 
+Considere un auditorio de clases de volumen 𝑉 ≈ 103 m3 , a temperatura ambiente 𝑇 ≈ 300 [K],
+y presión atmosférica 𝑃 ≈ 1 [atm] ≈ 105 [Pa]:
+d) Si la presión parcial de agua (humedad) en la atmósfera de la sala es de 0,015 [atm], determine
+la masa total de agua disuelta en el aire.
+e) La presión de vapor del agua a 20◦ C es de 0,023 [atm] ¿Cuántos kilos adicionales de agua se
+pueden disolver en la atmósfera sin que comience a condensar (se formen gotitas).
+26
+
+TRANSFORMACIONES DE FASE
+Humedad Relativa
+
+27
+
+Referencias
+
+REFERENCIAS
+
+Demtröder, W. (2017). Mechanics and Thermodynamics. Springer International Publishing.
+https://doi.org/10.1007/978-3-319-27877-3
+Feynman, R. P., Leighton, R. B., & Sands, M. L. (2011). The Feynman Lectures on Physics, Volume I:
+Mainly Mechanics, Radiation, and Heat (New Millennium Edition) [Originally published 1963–1965].
+Basic Books.
+Hugh, Y., & Freedman, R. (2018). Física universitaria con física moderna 1 (14.a ed., Vol. 1). Pearson
+Educación de México.
+OpenAI. (2022). ChatGPT [Utilizado para la creación de imágenes mediante la integración con
+DALL·E]. https://chat.openai.com/
+Serway, R. A., & Jewett, J. W. (2019). Física para ciencias e ingeniería 1 (10.a ed., Vol. 1). Cengage
+Learning.
+
+29
+
+Calor & Ondas
+Teoría Cinética de los Gases
+
+Oscar Aravena O.
+Facultad de Ingeniería
+Universidad de Valparaíso
+Primer Semestre – 2026
+
+30
+
+APÉNDICE MATEMÁTICO: TEORÍA DE PROBABILIDADES
+En la Teoría de Probabilidades definimos los momentos de una distribución, tanto para el caso
+discreto como para el caso continuo, como:
+𝑛
+
+E [𝑥 ] =
+
+∑︁
+
+∫ +∞
+𝑛
+
+𝑥 𝑓 (𝑥)
+
+;
+
+𝑑𝑥 𝑥 𝑛 𝑓 (𝑥)
+
+𝑛
+
+E [𝑥 ] =
+−∞
+
+𝑥
+
+En ambos casos, 𝑓 (𝑥) representa la función de probabilidad (o de densidad). Al hablar de
+probabilidades, está implícito que:
+∑︁
+𝑥
+
+∫ +∞
+𝑓 (𝑥) = 1
+
+𝑑𝑥 𝑓 (𝑥) = 1
+
+;
+−∞
+
+Dependiendo del valor de 𝑛, los momentos nos entregan información relevante acerca de la
+distribución.
+31
+
+APÉNDICE MATEMÁTICO: TEORÍA DE PROBABILIDADES
+• 𝒏 = 1: corresponde a una medida de tendencia central de los datos, es decir, un valor típico (la
+media o esperanza). Un ejemplo en física es el Centro de Masas.
+• 𝒏 = 2: corresponde a una medida de dispersión. En particular, el segundo momento (centrado)
+define la varianza. Un ejemplo en física es el Momento de Inercia.
+• 𝒏 = 3: caracteriza la asimetría de la distribución, indicando si presenta sesgo hacia la izquierda
+o hacia la derecha.
+• 𝒏 = 4: describe la curtosis, es decir, el grado de concentración de los valores alrededor de la
+media y el peso de las colas. Permite distinguir distribuciones con valores extremos respecto a
+lo esperado en una distribución normal.
+En particular nos es relevante el segundo momento de la distribución, pero de velocidades, es decir:
+𝑓 (𝑥) −→ 𝑓 (®𝑣 ):
+∫
+ 
+∑︁
+2
+2
+2
+E 𝑣 = 𝑣 =
+𝑣 𝑛 (®𝑣 ) −→
+𝑑𝑣 𝑣 2 𝑛 (®𝑣 )
+𝑣
+32
+
+APÉNDICE MATEMÁTICO: TEORÍA DE PROBABILIDADES
+∫ ∞
+Físicamente, 𝑓 (®𝑣 ) no esta normalizada, es decir, no garantiza que
+
+𝑑 3 𝑣 𝑓 (®𝑣 ) = 1, por lo que
+
+0
+
+debemos normalizarla primero, es decir:
+∫
+𝑣2 = ∫
+
+𝑑 3 𝑣 𝑣 2 𝑓 (®𝑣 )
+𝑑 3 𝑣 𝑓 (®𝑣 )
+
+Reconocemos en el denominador la ecuación (1), al despejar obtenemos:
+
+∫
+
+𝑑 3 𝑣 2 𝑓 (®𝑣 ) =
+
+𝑁 2
+𝑣
+𝑉
+33

@@ -169,4 +169,72 @@ $$\Delta L = 0{,}7 \times 10^{-4} \cdot 2{,}000 \cdot 2$$
 
 $$\boxed{\Delta L = 0{,}28 \text{ m} = 28 \text{ cm}}$$
 
-> Este resultado ilustra el impacto del calentamiento global: un aumento de 2 °C en la temperatura del océano puede elevar el nivel del mar varios centímetros solo por expansión térmica, sin considerar el deshielo de glaciares. 
+> Este resultado ilustra el impacto del calentamiento global: un aumento de 2 °C en la temperatura del océano puede elevar el nivel del mar varios centímetros solo por expansión térmica, sin considerar el deshielo de glaciares.
+
+---
+
+## Dilatación Superficial
+
+Suponga una plancha metálica rectangular de dimensiones $L_0$ y $H_0$, con área inicial $A_0 = L_0 H_0$, a temperatura $T_0$.
+
+Si la temperatura se incrementa en $\Delta T$, el área final es:
+
+$$A = L_0(1 + \alpha \Delta T) \cdot H_0(1 + \alpha \Delta T) = A_0(1 + \alpha \Delta T)^2$$
+
+Despreciando el término $\alpha^2 \Delta T^2$ (muy pequeño):
+
+$$\boxed{A \approx A_0(1 + 2\alpha \Delta T)}$$
+
+> **¿Qué pasa con un agujero?** Si la plancha tiene un agujero circular, al calentarla el agujero **se agranda**. El material se expande uniformemente, incluyendo la frontera del agujero.
+
+---
+
+## Dilatación Volumétrica
+
+Para volúmenes ($V \sim L^3$):
+
+$$V = V_0(1 + \alpha \Delta T)^3 \approx V_0(1 + \beta \Delta T)$$
+
+donde $\beta = 3\alpha$ es el coeficiente de expansión volumétrica.
+
+### Coeficientes de expansión volumétrica de fluidos
+
+| Material | $\beta$ (×10⁻⁴ K⁻¹) |
+|:---|:---:|
+| Agua | 2,1 |
+| Mercurio | 1,8 |
+| Bencina | 9,6 |
+
+### Propiedad importante
+
+Nótese que:
+
+$$L = L_0(1 + \alpha \Delta T) \implies \frac{\Delta L}{L_0} = \alpha \Delta T$$
+
+Ante similares condiciones, porcentualmente **todos los materiales se dilatan en la misma proporción**. El caso general (superficies y volúmenes) es similar.
+
+---
+
+## Ejercicio: Impacto del calentamiento global en el nivel del mar
+
+Suponiendo que la profundidad media del océano es de $4 \; [\text{km}]$ y que la temperatura del agua de los océanos aumenta en $2\;°\text{C}$:
+
+a) ¿En qué porcentaje varía el volumen del agua de mar debido a su dilatación?
+
+b) ¿Cuánto sube el nivel medio del mar por este aumento de temperatura?
+
+> Referencia: "Why do we keep talking about 1.5 °C and 2 °C above the pre-industrial era?" (Copernicus Climate Change Service, 2023).
+
+---
+
+## Anomalía del agua
+
+En general, los líquidos disminuyen su volumen mientras se enfrían (en fase líquida). Sin embargo, el agua entre $0\;°\text{C}$ y $4\;°\text{C}$ presenta un **comportamiento anómalo**:
+
+- Entre $4\;°\text{C}$ y $100\;°\text{C}$: el agua se comporta normalmente (se expande al calentar).
+- Entre $0\;°\text{C}$ y $4\;°\text{C}$: el agua **se contrae** al calentar (la densidad **aumenta**).
+- La **densidad máxima** del agua ocurre a $\approx 4\;°\text{C}$ ($\rho \approx 999{,}97 \; \text{kg/m}^3$).
+
+Este fenómeno tiene consecuencias importantes:
+- En invierno, el agua más fría ($< 4\;°\text{C}$) sube a la superficie del lago, donde se congela.
+- El agua a $4\;°\text{C}$ (más densa) permanece en el fondo, permitiendo la supervivencia de los organismos acuáticos bajo el hielo.
